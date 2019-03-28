@@ -1,3 +1,0 @@
-# NewRepository
-NewRepositoryOne
-Новая функция
